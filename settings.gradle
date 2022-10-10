@@ -1,0 +1,5 @@
+rootProject.name = 'tst1'
+
+include 'db'
+include 'service'
+include 'api'
